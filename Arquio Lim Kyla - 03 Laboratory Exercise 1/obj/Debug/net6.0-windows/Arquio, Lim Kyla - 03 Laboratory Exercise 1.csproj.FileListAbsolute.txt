@@ -1,0 +1,18 @@
+C:\Users\Xeb\Desktop\Arquio-Lim-Kyla---03-Laboratory-Exercise-1-main\bin\Debug\net6.0-windows\Arquio, Lim Kyla - 03 Laboratory Exercise 1.exe
+C:\Users\Xeb\Desktop\Arquio-Lim-Kyla---03-Laboratory-Exercise-1-main\bin\Debug\net6.0-windows\Arquio, Lim Kyla - 03 Laboratory Exercise 1.deps.json
+C:\Users\Xeb\Desktop\Arquio-Lim-Kyla---03-Laboratory-Exercise-1-main\bin\Debug\net6.0-windows\Arquio, Lim Kyla - 03 Laboratory Exercise 1.runtimeconfig.json
+C:\Users\Xeb\Desktop\Arquio-Lim-Kyla---03-Laboratory-Exercise-1-main\bin\Debug\net6.0-windows\Arquio, Lim Kyla - 03 Laboratory Exercise 1.dll
+C:\Users\Xeb\Desktop\Arquio-Lim-Kyla---03-Laboratory-Exercise-1-main\bin\Debug\net6.0-windows\Arquio, Lim Kyla - 03 Laboratory Exercise 1.pdb
+C:\Users\Xeb\Desktop\Arquio-Lim-Kyla---03-Laboratory-Exercise-1-main\obj\Debug\net6.0-windows\Arquio, Lim Kyla - 03 Laboratory Exercise 1.csproj.AssemblyReference.cache
+C:\Users\Xeb\Desktop\Arquio-Lim-Kyla---03-Laboratory-Exercise-1-main\obj\Debug\net6.0-windows\Arquio__Lim_Kyla___03_Laboratory_Exercise_1.frmConfirmation.resources
+C:\Users\Xeb\Desktop\Arquio-Lim-Kyla---03-Laboratory-Exercise-1-main\obj\Debug\net6.0-windows\Arquio__Lim_Kyla___03_Laboratory_Exercise_1.frmRegistration.resources
+C:\Users\Xeb\Desktop\Arquio-Lim-Kyla---03-Laboratory-Exercise-1-main\obj\Debug\net6.0-windows\Arquio, Lim Kyla - 03 Laboratory Exercise 1.csproj.GenerateResource.cache
+C:\Users\Xeb\Desktop\Arquio-Lim-Kyla---03-Laboratory-Exercise-1-main\obj\Debug\net6.0-windows\Arquio, Lim Kyla - 03 Laboratory Exercise 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Xeb\Desktop\Arquio-Lim-Kyla---03-Laboratory-Exercise-1-main\obj\Debug\net6.0-windows\Arquio, Lim Kyla - 03 Laboratory Exercise 1.AssemblyInfoInputs.cache
+C:\Users\Xeb\Desktop\Arquio-Lim-Kyla---03-Laboratory-Exercise-1-main\obj\Debug\net6.0-windows\Arquio, Lim Kyla - 03 Laboratory Exercise 1.AssemblyInfo.cs
+C:\Users\Xeb\Desktop\Arquio-Lim-Kyla---03-Laboratory-Exercise-1-main\obj\Debug\net6.0-windows\Arquio, Lim Kyla - 03 Laboratory Exercise 1.csproj.CoreCompileInputs.cache
+C:\Users\Xeb\Desktop\Arquio-Lim-Kyla---03-Laboratory-Exercise-1-main\obj\Debug\net6.0-windows\Arquio, Lim Kyla - 03 Laboratory Exercise 1.dll
+C:\Users\Xeb\Desktop\Arquio-Lim-Kyla---03-Laboratory-Exercise-1-main\obj\Debug\net6.0-windows\refint\Arquio, Lim Kyla - 03 Laboratory Exercise 1.dll
+C:\Users\Xeb\Desktop\Arquio-Lim-Kyla---03-Laboratory-Exercise-1-main\obj\Debug\net6.0-windows\Arquio, Lim Kyla - 03 Laboratory Exercise 1.pdb
+C:\Users\Xeb\Desktop\Arquio-Lim-Kyla---03-Laboratory-Exercise-1-main\obj\Debug\net6.0-windows\Arquio, Lim Kyla - 03 Laboratory Exercise 1.genruntimeconfig.cache
+C:\Users\Xeb\Desktop\Arquio-Lim-Kyla---03-Laboratory-Exercise-1-main\obj\Debug\net6.0-windows\ref\Arquio, Lim Kyla - 03 Laboratory Exercise 1.dll

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Jg7v57ogpU/rb0DqRxYJP/M88ayVvtUF3Q7cY3nyvxczdIqXOLQtwWFMIqaM0oVd9+A27aLbYFiGYvXHa67QHQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Xeb\\Desktop\\Arquio-Lim-Kyla---03-Laboratory-Exercise-1-main\\Arquio, Lim Kyla - 03 Laboratory Exercise 1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Xeb\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.23\\microsoft.windowsdesktop.app.ref.6.0.23.nupkg.sha512",
+    "C:\\Users\\Xeb\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.23\\microsoft.netcore.app.ref.6.0.23.nupkg.sha512",
+    "C:\\Users\\Xeb\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.23\\microsoft.aspnetcore.app.ref.6.0.23.nupkg.sha512",
+    "C:\\Users\\Xeb\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.23\\microsoft.netcore.app.host.win-x64.6.0.23.nupkg.sha512"
+  ],
+  "logs": []
+}
